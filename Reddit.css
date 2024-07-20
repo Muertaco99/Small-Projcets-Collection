@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.topnav{
+    background-color: orange;
+}
+.navlist > li {
+        display: inline;
+        
+    }
+.home{
+    margin-bottom: 10px;
+}
+.news{
+    margin-bottom: 10px;
+}
+.contact{
+    margin-bottom: 10px;
+}
